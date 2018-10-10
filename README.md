@@ -2,9 +2,11 @@
 ---
 title: 'Genetique-Algorithme'
 date: 2012-08-14
+
 ---
 
 
+--------------------
 
 Recherche de l’optimum global d’une fonction multimodale
 
@@ -25,3 +27,5 @@ evaluer p(0)
 
 g++ main.cpp genetique.cpp -o  exec
 ./exec
+
+------------------------------
