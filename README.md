@@ -1,7 +1,6 @@
 
----
-title: 'Genetique-Algorithme'
-date: 2012-08-14
+## Genetique algorithme
+
 
 ---
 
