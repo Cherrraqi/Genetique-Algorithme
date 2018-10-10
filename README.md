@@ -3,7 +3,7 @@
 
 
 ---
-![](https:https://cherrraqi.github.io/Genetique-Algorithme/testGA.jpeg)
+![image](https:https://cherrraqi.github.io/Genetique-Algorithme/testGA.jpeg)
 
 --------------------
 
