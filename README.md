@@ -1,5 +1,5 @@
 
-## Genetique algorithme
+## Genetique Algorithme
 
 
 ---
