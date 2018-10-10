@@ -12,7 +12,6 @@ tags:
 ---
 
 
-![Iris Data Exploration](https://cherrraqi.github.io/aca/files/iris.png)
 
 Recherche de l’optimum global d’une fonction multimodale
 
@@ -33,5 +32,3 @@ evaluer p(0)
 
 g++ main.cpp genetique.cpp -o  exec
 ./exec
-
-![Iris Data Exploration](https://cherrraqi.github.io/aca/files/iris.png)
